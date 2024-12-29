@@ -22,8 +22,8 @@ Print the coefficients of the model.Print the intercept of the model.Print the p
 
 ## Program:
 ```
-Developed By:S.Rithhik Ram
-Ref no :24004502
+Developed By:S. Dhayalaprabu
+Ref no :24006289
 
 import pandas as pd
 from sklearn import linear_model
